@@ -16,9 +16,9 @@
 <p>Modularização seguindo ECMAScript 6 Modules</p>
  <dl>
  <dt>Módulo a ser exportado: </dt>
-    <dd><a href="calculadora.mjs">calculadora.mjs</a></dd>
-    <dd><a href="circulo.mjs">circulo.mjs</a></dd>
+    <dd><a href="./es6/calculadora.mjs">calculadora.mjs</a></dd>
+    <dd><a href="./es6/circulo.mjs">circulo.mjs</a></dd>
  <dt>
  <dt>Consome os módulos exportados:</dt>
-    <dd><a href="consome-modulo.mjs">consome-modulo.mjs</a></dd>
+    <dd><a href="./es6/consome-modulo.mjs">consome-modulo.mjs</a></dd>
  </dl>
